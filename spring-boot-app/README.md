@@ -8,8 +8,8 @@ Execute the application locally and access it using your browser
 -
 Checkout the repo and move to the directory
 ```bash
-git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
-cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+git clone https://github.com/mashood-rampur/Jenkins.git
+cd spring-boot-app/
 ```
 Execute the Maven targets to generate the artifacts
 ```bash
